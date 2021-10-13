@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout-w1280dp/activity_main.xml" value="0.41217798594847777" />
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout-w600dp/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout/fragment_detalle_layout.xml" value="0.5018203883495146" />
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout/fragment_selector_layout.xml" value="0.5" />
+        <entry key="..\:/Users/DS4/AndroidStudioProjects/FragmentosDinamicos/app/src/main/res/layout/item_selector_layout.xml" value="0.22" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout-h600dp/activity_main.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout-w1280dp/activity_main.xml" value="0.11546184738955824" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout-w600dp/activity_main.xml" value="0.15211640211640212" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout-w600dp2/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout/ejemplo.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/layout/fragment_detalle_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/menu/menu_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/FragmentosDinamicos2021-master/app/src/main/res/menu/menu_selector.xml" value="0.1796875" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/Respaldo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/Respaldo/app/src/main/res/layout/fragment_detalle_layout.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/denni/AndroidStudioProjects/Respaldo/app/src/main/res/menu/menu_main.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
